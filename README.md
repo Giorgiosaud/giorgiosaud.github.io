@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Giorgiosaud/giorgiosaud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here i can show all my work on progress of my projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Projects
+- [SuperEnviosToday](https://github.com/Giorgiosaud/SuperEnviosToday): a exchange company project
+- [GithubAutomation](https://github.com/Giorgiosaud/github-automation): a tool to update github repos in bulk mode
+- [Cutom Oh y zsh](https://github.com/Giorgiosaud/custom-oh-my-zsh-folder): Custom setup of oh my zsh
+- [Eslint standart](https://github.com/Giorgiosaud/giorgiosaud-standard): Eslint usable
+- [Wedcontest](https://github.com/Giorgiosaud/wedcontest2018): wed contenst art contest
+- [Reservas fluviales](https://github.com/Giorgiosaud/ReservasPtori): sistema de reservas fluviales
+- [Traduccion carbon](https://github.com/Giorgiosaud/carbonlocalizer)
+- [Mercadopago composer](https://github.com/Giorgiosaud/mercadopagoLaravel)
+- [ebay-importer-giorgiosaud](https://github.com/Giorgiosaud/ebay-importer-giorgiosaud):import from ebay to woocommerce
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Giorgiosaud/giorgiosaud.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+si necesitas algo contactame a [mi email](jorgelsaud@gmail.com)
