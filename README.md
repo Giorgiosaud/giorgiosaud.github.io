@@ -17,4 +17,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Support or Contact
 
-si necesitas algo contactame a [mi email](jorgelsaud@gmail.com)
+if you need anything from me here is [my email](giorgiosaud@gmail.com)
