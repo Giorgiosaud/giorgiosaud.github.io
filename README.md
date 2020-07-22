@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page
+# Welcome to my GitHub Page.
 
 Here i can show all my work on progress of my projects
 
